@@ -12,8 +12,8 @@ import pathPrefix = require('rest/interceptor/pathPrefix');
 // CREDENTIALS
 //
 
-const username = 'david@hartveld.net';
-const apikey = 'd3d995ec-133e-4716-bb88-ece554cc9c5c';
+const username = '<username>';
+const apikey = '<apikey from profile page>';
 
 //
 // APP
